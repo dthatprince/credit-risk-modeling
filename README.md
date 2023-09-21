@@ -2,6 +2,11 @@
 This project offers a comprehensive work on building state-of-the-art credit scoring models tailored specifically for financial lending in the Fintech industry.
 
 
+# Data:
+Here we are going to use Home Credit Default Risk dataset which you can find it on Kaggle: https://www.kaggle.com/c/home-credit-default-risk
+All the data are distributed in several different csv files, where the parent of all of these is application_{train|test}.csv.
+![Data Image](data diagram.png)
+
 # Situation:
 Project focused on credit risk modeling and understanding the role of data science in the lending industry.
 
